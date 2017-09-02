@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
-  <link rel="stylesheet" href="{{ "/assets/warlock.scss" | relative-url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-      {% include google-analytics.html %}
-  {% endif %}
-</head>
+	<head>
+		<!-- meta -->
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- seo -->
+
+		<!-- stylesheets -->
+		<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+	  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative-url }}">
+		<link rel="stylesheet" href="{{ "/assets/highlight/styles/tomorrow-night-bright.css" | relative-url }}">
+
+	  <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}"> -->
+
+		<!-- google analytics, if included -->
+	  {% if jekyll.environment == 'production' and site.google_analytics %}
+	      {% include google-analytics.html %}
+	  {% endif %}
+	</head>

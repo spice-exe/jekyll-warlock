@@ -1,1 +1,18 @@
-{{ content }}
+{% include head.html %}
+<main>
+	{% include header.html %}
+	{{ content }}
+<pre><code>
+.warlock {
+	color: black;
+	a {
+		color: white;
+		h1 {
+			color: red;
+		}
+	}
+}
+</code></pre>
+	{% include footer.html %}
+	{% include scripts.html %}
+</main>

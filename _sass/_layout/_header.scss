@@ -1,0 +1,19 @@
+header {
+	max-width: 900px;
+	width: 100%;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	border-bottom: 1px solid $c_tundora;
+	margin: 0 auto;
+	a {
+		text-decoration: none;
+		color: $c_alto;
+		h1 {
+			font-size: 1.5em;
+		}
+	}
+}
