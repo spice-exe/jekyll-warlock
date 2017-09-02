@@ -1,21 +1,24 @@
-The MIT License (MIT)
+***COPYRIGHT (C) 2017 SPICE***
+***<spice_exe@outlook.com>***
 
-Copyright (c) 2017 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+this jekyll theme, warlock, will hereby referred to as 'the software', 'software', 'warlock', 'the theme', or 'theme'
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+by purchasing and/or using this software you are agreeing that you will never distribute it in any way, shape, or form, to anyone.
+if you distribute this illegally you are not just hurting me, you are hurting all developers who create with the intent of selling to make a living. __*please think twice.*__
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+this source and all of its contents (***unless otherwise stated, see below***) are copyright (C) 2017 spice <spice_exe@outlook.com> - all rights reserved.
+
+unauthorized copying of this or any file contained in this source is strictly and utterly prohibited.
+
+the above includes any similar derivatives of these source files, or using 'snippets' of my code.
+
+the source and all files contained within are proprietary and confidential, and were written by spice spice_exe@outlook.com (me!), september 2017
+
+under no circumstances am I to be held liable for anything that anyone does with these files.
+
+
+***EXCEPTIONS TO THE ABOVE COPYRIGHT, aka NOT MY CODE***
+
+- highlight.js
+	- located at assets/highlight, contains own license (BSD3).
