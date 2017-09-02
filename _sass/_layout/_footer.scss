@@ -43,19 +43,22 @@ footer {
         color: $c-malibu;
 			}
 		}
-		.fa-github {
-			&:hover {
-				color: $c-gullgray;
+
+    .fa-github {
+      &:hover {
+        color: $c-gullgray;
 			}
 		}
-		.fa-leaf {
-			&:hover {
-				color: $c-mossgreen;
+
+    .fa-leaf {
+      &:hover {
+        color: $c-mossgreen;
 			}
 		}
-		.fa-gitlab {
-			&:hover {
-				color: $c-salmon;
+
+    .fa-gitlab {
+      &:hover {
+        color: $c-salmon;
 			}
 		}
 	}

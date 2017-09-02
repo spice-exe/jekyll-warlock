@@ -1,12 +1,12 @@
 main {
-	max-width: 900px;
-	height: 100vh;
-	margin: 0 auto;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: flex-start;
-	background-color: $c_mineshaft;
-	margin-top: 50px;
+  align-items: flex-start;
+  background-color: $c-mineshaft;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100vh;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 900px;
 }
