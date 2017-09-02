@@ -16,9 +16,3 @@ the above includes any similar derivatives of these source files, or using 'snip
 the source and all files contained within are proprietary and confidential, and were written by spice spice_exe@outlook.com (me!), september 2017
 
 under no circumstances am I to be held liable for anything that anyone does with these files.
-
-
-***EXCEPTIONS TO THE ABOVE COPYRIGHT, aka NOT MY CODE***
-
-- highlight.js
-	- located at assets/highlight, contains own license (BSD3).

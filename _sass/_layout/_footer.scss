@@ -1,0 +1,62 @@
+footer {
+  background-color: $c-mineshaft;
+  border-top: 1px solid $c-tundora;
+  height: 50px;
+  margin: 0 auto;
+  max-width: 900px;
+  text-align: center;
+  width: 100%;
+
+  ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+
+    li {
+      display: inline-block;
+		}
+	}
+
+  p {
+    margin: 5px 0;
+	}
+
+  a {
+    color: $c-alto;
+    font-size: 1.2em;
+    text-decoration: none;
+    @media #{$break-small} {
+      font-size: 1.4em;
+		}
+
+    i {
+      padding: 5px;
+      @media #{$break-small} {
+        padding: 2px;
+			}
+		}
+
+    .fa-twitter {
+      &:hover {
+        color: $c-malibu;
+			}
+		}
+		.fa-github {
+			&:hover {
+				color: $c-gullgray;
+			}
+		}
+		.fa-leaf {
+			&:hover {
+				color: $c-mossgreen;
+			}
+		}
+		.fa-gitlab {
+			&:hover {
+				color: $c-salmon;
+			}
+		}
+	}
+}
