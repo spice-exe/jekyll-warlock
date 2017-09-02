@@ -4,7 +4,7 @@ is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff
 
 is not: a javascript monster with over-the-top animations that destroys page load times and viewing experience.
 
---
+---
 
 ## thanks!
 
@@ -12,7 +12,7 @@ hey! thanks for purchasing this jekyll theme. you made my day, and I hope I've m
 
 if you have any questions feel free to ask them from the purchase page help form.
 
---
+---
 
 ## installation
 
@@ -36,7 +36,7 @@ or install it yourself as:
 
     $ gem install warlock
 
---
+---
 
 ## usage
 
@@ -54,7 +54,7 @@ to modify the syntax highlighting style:
 	- tomorrow-night-blue.css
 	- tomorrow-night-bright.css [default]
 
---
+---
 
 ## copyright
 
