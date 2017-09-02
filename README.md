@@ -41,8 +41,13 @@ this jekyll theme, warlock, will be referred to as 'the software', 'software', '
 by purchasing and/or using this software you are agreeing that you will never distribute it in any way, shape, or form, to anyone.
 if you distribute this illegally you are not just hurting me, you are hurting all developers. *please think twice.*
 
-this source and any of its contents are copyright spice 2017 - all rights reserved.
-unauthorized copying of this or any file contained in this theme (this includes any and all source files, sass, html, css, javascript, etc) is strictly and utterly prohibited.
+this source and all of its contents (***unless otherwise stated, see below***) are copyright spice 2017 - all rights reserved.
+unauthorized copying of this or any file contained in this source is strictly and utterly prohibited.
 the above includes any similar derivatives of these source files, or using 'snippets' of my code.
-this software, source, all files contained within the theme, whatever you want to call them/it, are proprietary and confidential.
-this theme and all files contained within were written by spice spice_exe@outlook.com (me!), august 2017
+the source and all files contained within are proprietary and confidential, and were written by spice spice_exe@outlook.com (me!), september 2017
+
+
+***EXCLUSIONS TO THE ABOVE COPYRIGHT***
+
+- highlight.js
+	- located at assets/highlight, contains own license.
