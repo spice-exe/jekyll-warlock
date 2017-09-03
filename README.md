@@ -1,11 +1,10 @@
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 
----
-
 is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
 
 is not: a javascript monster with over-the-top animations that destroys page load times and viewing experience.
-
+<br>
+<br>
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-1.png">
 
 
