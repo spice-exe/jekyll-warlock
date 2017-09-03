@@ -67,11 +67,11 @@ a {
     padding: 20px 40px;
 
     ul {
-      margin-left: 45px;
+      margin-left: 15px;
 		}
 
     ol {
-      margin-left: 58px;
+      margin-left: 28px;
 		}
 
     p {
@@ -88,31 +88,59 @@ a {
 			}
 		}
 
+    .style-guide-title {
+      background-color: $c-mineshaft;
+      border-left: 1px solid $c-tundora;
+      border-radius: 2px;
+      border-right: 1px solid $c-tundora;
+      border-top: 1px solid $c-tundora;
+      color: $c-salmon;
+      display: block;
+      font-size: 1.2em;
+      font-weight: 400;
+      letter-spacing: 6px;
+      margin: 40px 0 20px;
+      padding: 5px;
+      text-align: center;
+    }
+
+    .style-guide-small-title {
+      background-color: $c-pureblack;
+      border-radius: 4px;
+      color: $c-mossgreen;
+      font-size: .9em;
+      padding: 5px;
+    }
+
     table {
-      background-color: $c-coldpurple;
+      background-color: $c-tundora;
+      border-radius: 0 0 4px 4px;
+      margin: 20px auto;
       padding: 20px;
+
+      caption {
+        background-color: $c-pureblack;
+        border-radius: 4px 4px 0 0;
+        color: $c-salmon;
+        font-size: 1.1em;
+        font-weight: 200;
+        padding: 5px;
+      }
 
       th,
       td {
-        border: 1px solid $c-lightwisteria;
+        border: 1px solid $c-mineshaft;
         font-size: .9em;
         padding: 5px;
         text-align: center;
 			}
 
       th {
+        background-color: $c-pureblack;
         color: $c-mossgreen;
         font-size: 1em;
         font-weight: 200;
 			}
-		}
-
-    code {
-      background-color: $c-pureblack;
-      border-radius: 2px;
-      color: $c-salmon;
-      font-size: .9em;
-      padding: 2px;
 		}
 
     blockquote {

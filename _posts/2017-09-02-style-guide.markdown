@@ -8,54 +8,70 @@ categories: jekyll styles
 warlock is a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
 <br>
 <br>
-here is the style guide for warlock:
+to see how the code is written, right click anywhere and click 'inspect', or visit the source. c:
+
+with that, here's the style guide for warlock:
 <br>
 <br>
-<code>**strong**</code>: **strong**
 
-<code>*italic*</code>: *italic*
+<span class="style-guide-title">text</span>
 
-<code>***strong & italic***</code>: ***strong & italic***
+<span class="style-guide-small-title">basics</span>
 
-<code><del>delete</del></code>: <del>delete</del>
+**strong**
 
-<code><ins>insert</ins></code>: <ins>insert</ins>
+*italic*
 
-<code><hr></code>:
+***strong & italic***
+
+<del>delete</del>
+
+<ins>insert</ins>
+
+<span class="style-guide-small-title">horizontal rule</span>
+
 <hr>
 
-<code># header 1</code>: # header 1
+<span class="style-guide-small-title">headers</span>
 
-<code>## header 2</code>: ## header 2
+# header 1
 
-<code>### header 3</code>: ### header 3
+## header 2
 
-<code>#### header 4</code>: #### header 4
+### header 3
 
-<code>##### header 5</code>: ##### header 5
+#### header 4
 
-<code>###### header 6</code>: ###### header 6
+##### header 5
 
-<code>- li 1, 2, 3, etc</code>:
+###### header 6
+
+<span class="style-guide-small-title">unordered lists</span>
+
 - li 1
 - li 2
 - li 3
 
-<code>1. 2. 3., etc</code>:
+<span class="style-guide-small-title">ordered lists</span>
+
 1. li 1
 2. li 2
 3. li 3
 
-<code>> block quote</code>
+<span class="style-guide-small-title">block quote</span>
+
 > Nyarlathotep gotha uln phlegeth ftaghu lloig shogg fm'latgh hriioth chtenffyar chtenff syha'h mnahn', chlirgh Yoggoth Azathoth uh'e f'tharanak f's'uhn r'luh fhtagn lloig ilyaa nw, li'hee navulgtlagln ep grah'n f''bthnk ee y'hah nggoka phlegeth R'lyeh y-hupadgh. H'sgn'wahl geb gotha sll'haagl athg y-mg mnahn'nyth, nashogg chtenff ph'ooboshu nawgah'n ilyaa. Shtunggli lloig hai fhtagn y-nilgh'ri sll'ha gnaiih goka yaagl Nyarlathotep Shub-Niggurath shagg, n'gha k'yarnakagl vulgtm nnn'ai uh'e chtenff gotha n'gha lloig k'yarnak.
 
-<code>![]({{site.baseurl}}/assets/images/image.png)</code>
+<span class="style-guide-title">images</span>
 
 ![]({{site.baseurl}}assets/images/mitchell-bowser-348306.jpg)
 
-<code>to see the table html, right click and 'inspect'</code>:
+<span class="style-guide-title">misc</span>
+
+<span class="style-guide-small-title">tables</span>
 
 <table>
+  <caption>ingredients</caption>
 	<thead>
 		<tr>
 			<th>item</th>
@@ -81,3 +97,13 @@ here is the style guide for warlock:
 		</tr>
 	</tbody>
 </table>
+
+<span class="style-guide-small-title">code</span>
+
+```python
+ingredient1 = "eye of newt"
+ingredient1.split()
+ingredient2 = ingredient1[2]
+
+print(ingredient2)
+```

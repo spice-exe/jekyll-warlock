@@ -1,0 +1,118 @@
+.highlight {
+  background-color: $c-pureblack;
+  border-radius: 4px;
+  color: $c-alto;
+  margin: 20px 30px;
+  max-width: 100%;
+  padding: 10px;
+
+  table {
+    td {
+      padding: 5px;
+    }
+
+    pre {
+      margin: 0;
+    }
+  }
+
+  .w {
+    background-color: $c-pureblack;
+    color: $c-silver;
+  }
+
+  .err {
+    background-color: $c-appleblossom;
+    color: $c-pureblack;
+  }
+
+  .c,
+  .cd,
+  .cm,
+  .c1,
+  .cs {
+    color: $c-dovegray;
+  }
+
+  .cp,
+  .nt {
+    color: $c-rajah;
+  }
+
+  .o,
+  .ow,
+  .p,
+  .pi {
+    color: $c-alto;
+  }
+
+  .gi {
+    color: $c-chelseacucumb;
+  }
+
+  .gd {
+    color: $c-appleblossom;
+  }
+
+  .gh {
+    background-color: $c-pureblack;
+    color: $c-hippieblue;
+    font-weight: bold;
+  }
+
+  .k,
+  .kn,
+  .kp,
+  .kr,
+  .kv {
+    color: $c-bouquet;
+  }
+
+  .kc,
+  .kt,
+  .kd {
+    color: $c-rawsienna;
+  }
+
+  .s,
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .s1 {
+    color: $c-chelseacucumb;
+  }
+
+  .sr {
+    color: $c-gulfstream;
+  }
+
+  .si,
+  .se {
+    color: $c-pottersclay;
+  }
+
+  .nn,
+  .nc,
+  .no {
+    color: $c-rajah;
+  }
+
+  .na {
+    color: $c-hippieblue;
+  }
+
+  .m,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo,
+  .mb,
+  .mx,
+  .ss {
+    color: $c-chelseacucumb;
+  }
+}
