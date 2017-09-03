@@ -1,3 +1,5 @@
+![](/assets/images/warlock-title.png)
+
 # warlock
 
 is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
@@ -43,16 +45,7 @@ or install it yourself as:
 
 ### syntax highlighting
 
-to modify the syntax highlighting style:
-- open head.html
-- modify the file name under 'syntax highlighting theme'
-- the themes are as follows:
-	- atom-one-dark.css
-	- obsidian.css
-	- solarized-dark.css
-	- tomorrow-night.css
-	- tomorrow-night-blue.css
-	- tomorrow-night-bright.css [default]
+built in to jekyll with [code snippet highlighting](https://jekyllrb.com/docs/templates/#code-snippet-highlighting)
 
 ------
 
@@ -60,4 +53,4 @@ to modify the syntax highlighting style:
 
 copyright (c) 2017 spice <spice_exe@outlook.com>
 
-please see license file for more information.
+please see LICENSE.txt for more information.
