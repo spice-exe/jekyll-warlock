@@ -76,8 +76,8 @@ a {
 
     p {
       line-height: 1.4;
-      margin: 0 20px;
-      padding: 0 10px;
+      // margin: 0 20px;
+      // padding: 0 10px;
 
       img {
         border-radius: 4px;
@@ -88,13 +88,13 @@ a {
 			}
 		}
 
-    .style-guide-title {
+    .warlock-title {
       background-color: $c-mineshaft;
       border-left: 1px solid $c-tundora;
       border-radius: 2px;
       border-right: 1px solid $c-tundora;
       border-top: 1px solid $c-tundora;
-      color: $c-salmon;
+      color: $c-mossgreen;
       display: block;
       font-size: 1.2em;
       font-weight: 400;
@@ -104,11 +104,13 @@ a {
       text-align: center;
     }
 
-    .style-guide-small-title {
+    .warlock-small-title {
       background-color: $c-pureblack;
       border-radius: 4px;
-      color: $c-mossgreen;
+      color: $c-salmon;
+      display: inline-block;
       font-size: .9em;
+      margin: 40px 0 0;
       padding: 5px;
     }
 
