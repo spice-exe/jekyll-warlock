@@ -1,3 +1,4 @@
+<img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 ![](/assets/images/warlock-title.png)
 
 # warlock
