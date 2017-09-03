@@ -1,6 +1,7 @@
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 <br>
 <br>
+
 - is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
 
 - is not: a javascript monster with over-the-top animations that destroys page load times and viewing experience.
@@ -10,7 +11,7 @@
 <br>
 <br>
 
-## thanks!
+### thanks!
 
 hey! thanks for checking out this jekyll theme. in this README you will find installation instructions, and some helpful hints/tips at getting your this theme set up and to your liking.
 
@@ -18,7 +19,7 @@ if you have any questions feel free to ask them either through my [twitter](http
 <br>
 <br>
 
-## installation
+### installation
 
 add this line to your Jekyll site's `Gemfile`:
 
@@ -40,8 +41,16 @@ or install it yourself as:
 
     $ gem install warlock
 
-## usage
+### usage
 
+###### add a post
+
+create a new file in *\_posts* with the following naming convention:
+
+YYYY-MM-DD-title-of-post.markdown
+
+open the file and add front matter and start writing.
+check [here](https://jekyllrb.com/docs/posts/) for jekyll docs.
 
 ###### syntax highlighting
 
@@ -49,14 +58,16 @@ built in to jekyll with [code snippet highlighting](https://jekyllrb.com/docs/te
 
 ###### change footer links
 
-open *footer.html* in *\_includes* folder and modify the href's. (remove *#* and add the URL)
+open *footer.html* in *\_includes* folder and modify the hrefs. (remove *#* and add the URL)
 
-## contributing
+### contributing
 
 feel free to bring up an issue you're having, or fork it and push some changes to be reviewed.
 
-## copyright
+### copyright
 
-copyright (c) 2017 spice <spice_exe@outlook.com>
+***IDGAFPL*** 2017
+
+*(I Don't Give A Fuck Public License)*
 
 please see LICENSE.txt for more information.
