@@ -6,6 +6,8 @@ is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff
 
 is not: a javascript monster with over-the-top animations that destroys page load times and viewing experience.
 
+<img align="center" width="100%" height="auto" src="/assets/images/warlock-1.png">
+
 ------
 
 ## thanks!
