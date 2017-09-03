@@ -2,7 +2,6 @@
 layout: post
 title: "style guide."
 date: 2017-09-02 04:44:00 -0700
-categories: jekyll styles
 ---
 
 warlock is a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
