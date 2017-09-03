@@ -1,15 +1,9 @@
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 <br>
 <br>
-<br>
-<br>
 - is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
 
 - is not: a javascript monster with over-the-top animations that destroys page load times and viewing experience.
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-1.png">
@@ -18,9 +12,9 @@
 
 ## thanks!
 
-hey! thanks for purchasing this jekyll theme. you made my day, and I hope I've made yours. in this README you will find installation instructions, and some helpful hints/tips at getting your new theme set up and to your liking.
+hey! thanks for checking out this jekyll theme. in this README you will find installation instructions, and some helpful hints/tips at getting your this theme set up and to your liking.
 
-if you have any questions feel free to ask them from the purchase page help form.
+if you have any questions feel free to ask them either through my [twitter](https://twitter.com/spice_exe), [email](<spice_exe@outlook.com>), or bring up an issue.
 <br>
 <br>
 
@@ -45,18 +39,21 @@ and then execute:
 or install it yourself as:
 
     $ gem install warlock
-<br>
-<br>
 
 ## usage
 
 
-### syntax highlighting
+###### syntax highlighting
 
 built in to jekyll with [code snippet highlighting](https://jekyllrb.com/docs/templates/#code-snippet-highlighting)
 
-<br>
-<br>
+###### change footer links
+
+open *footer.html* in *\_includes* folder and modify the href's. (remove *#* and add the URL)
+
+## contributing
+
+feel free to bring up an issue you're having, or fork it and push some changes to be reviewed.
 
 ## copyright
 
