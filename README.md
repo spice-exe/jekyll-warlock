@@ -1,5 +1,6 @@
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 
+
 # warlock
 
 is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
@@ -8,7 +9,6 @@ is not: a javascript monster with over-the-top animations that destroys page loa
 
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-1.png">
 
-------
 
 ## thanks!
 
@@ -16,7 +16,6 @@ hey! thanks for purchasing this jekyll theme. you made my day, and I hope I've m
 
 if you have any questions feel free to ask them from the purchase page help form.
 
-------
 
 ## installation
 
@@ -40,7 +39,6 @@ or install it yourself as:
 
     $ gem install warlock
 
-------
 
 ## usage
 
@@ -49,7 +47,6 @@ or install it yourself as:
 
 built in to jekyll with [code snippet highlighting](https://jekyllrb.com/docs/templates/#code-snippet-highlighting)
 
-------
 
 ## copyright
 
