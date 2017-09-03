@@ -1,7 +1,6 @@
 <img align="center" width="100%" height="auto" src="/assets/images/warlock-title.png">
 
-
-# warlock
+---
 
 is: a minimalist, dark, clean, and *fast* theme designed to get the flashy stuff out of the way and present an ideal writing and reading experience.
 
